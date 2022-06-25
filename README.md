@@ -14,9 +14,9 @@ Hi, I'm smallketchup82. I like full-stack programming. Programming has been my h
 - SQL (I'm decent at databases but could be better)
 - Kubernetes (Requires a lot of commitment to learn, plus I lack the resources to make a makeshift cluster. Want to master nevertheless)
 
-### What I plan on learning in the future
+### What I plan on learning
 - C#
+- Java
 - Vue
-- Maybe Java
 - Maybe PHP
 - Maybe Swift
