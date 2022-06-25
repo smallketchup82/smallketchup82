@@ -1,16 +1,22 @@
-### Hi there 👋
+[![smallketchup's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallketchup82&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**smallketchup82/smallketchup82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm smallketchup82. I like full-stack programming. Programming has been my hobby since I was young.
 
-Here are some ideas to get you started:
+### Some stuff im good at
+- JavaScript & Node.js (Usually what I program in)
+- HTML & CSS
+- Ubuntu/Debian & Arch Linux
+- NGINX
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some stuff im okay at
+- Python (I forgot a bit of it since I don't program in python often)
+- SQL (I'm decent at databases but could be better)
+- Kubernetes (Requires a lot of commitment to learn, plus I lack the resources to make a makeshift cluster. Want to master nevertheless)
+
+### What I plan on learning in the future
+- C#
+- Vue
+- Maybe Java
+- Maybe PHP
+- Maybe Swift
