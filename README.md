@@ -18,7 +18,5 @@ Hi, I'm smallketchup82. I like full-stack programming. Programming has been my h
 - C#
 
 ### What I plan on learning
-- Java
-- Vue
+- React/Vue (or other web frameworks)
 - Maybe PHP
-- Maybe Swift
