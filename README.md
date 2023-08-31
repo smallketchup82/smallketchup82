@@ -1,6 +1,6 @@
 [![smallketchup's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallketchup82&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi, I'm smallketchup82. I like full-stack programming. Programming has been my hobby since I was young. I hope to make it a career somewhere down the line.
+Hi, I'm smallketchup82. I like full-stack programming.
 
 ### Stuff I'm Good at
 - TypeScript, Node.js, JavaScript (Usually what I program in)
