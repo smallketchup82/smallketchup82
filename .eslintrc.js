@@ -2,12 +2,22 @@ module.exports = {
 	"env": {
 		"node": true,
 		"commonjs": true,
-		"browser": true,
 		"es6": true
 	},
-	"extends": "eslint:recommended",
+	"parser": "@typescript-eslint/parser",
+	"plugins": [
+		"@typescript-eslint"
+	],
+	"root": true,
+	"extends": [
+		"eslint:recommended",
+		"plugin:@typescript-eslint/recommended-type-checked",
+		"plugin:@typescript-eslint/stylistic-type-checked"
+	],
 	"parserOptions": {
-		"ecmaVersion": "latest"
+		"ecmaVersion": "latest",
+		"project": true,
+		"tsconfigRootDir": __dirname
 	},
 	"rules": {
 		"quotes": [
@@ -17,6 +27,8 @@ module.exports = {
 		"semi": [
 			"error",
 			"never"
-		]
+		],
+		"@typescript-eslint/no-non-null-assertion": "off",
+		"@typescript-eslint/no-explicit-any": "off"
 	}
 }
