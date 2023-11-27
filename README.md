@@ -3,7 +3,7 @@
 Hi, I'm smallketchup82. I do full stack and I like making funny projects
 
 ### Stuff I'm Good At
-- TypeScript, JavaScript, Node.js (Usually what I program in)
+- TypeScript, JavaScript, Node.js (Mastered; Usually what I program in)
 - HTML & CSS
 - Python
 - Ubuntu
