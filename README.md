@@ -1,6 +1,6 @@
 [![smallketchup's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallketchup82&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi, I'm smallketchup82. I do full stac and I like making funny projects
+Hi, I'm smallketchup82. I do full stack and I like making funny projects
 
 ### Stuff I'm Good At
 - TypeScript, JavaScript, Node.js (Usually what I program in)
