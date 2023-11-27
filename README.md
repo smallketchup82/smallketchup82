@@ -1,6 +1,6 @@
 [![smallketchup's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallketchup82&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi, I'm smallketchup82. I like making funny projects.
+Hi, I'm smallketchup82. I do full stac and I like making funny projects
 
 ### Stuff I'm Good At
 - TypeScript, JavaScript, Node.js (Usually what I program in)
@@ -8,7 +8,7 @@ Hi, I'm smallketchup82. I like making funny projects.
 - Python
 - Ubuntu
 - NGINX
-- Docker
+- Docker 
 
 ### Stuff I'm Okay At
 - SQL (I'm decent but could be better)
@@ -17,9 +17,8 @@ Hi, I'm smallketchup82. I like making funny projects.
 - Kubernetes (Requires a lot of commitment to learn, plus I lack the resources to make a makeshift cluster. I understand the concepts though)
 
 ### Learning ATM
-- Nothing for the time being
+- Rust
 
 ### What I Plan On Learning
 - React/Vue (or other web frameworks)
-- Rust
 - Golang
