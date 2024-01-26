@@ -3,8 +3,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smallketchup82&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
-</a><br /><br />
-Hi, I'm smallketchup82. I do full stack and I like making funny projects
+</a><br /><br />Hi, I'm smallketchup82. I do full stack and I like making funny projects
 
 ### Stuff I'm Good At
 - TypeScript, JavaScript, Node.js (Mastered; Usually what I program in)
