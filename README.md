@@ -20,8 +20,7 @@
 - Kubernetes (Requires a lot of commitment to learn, plus I lack the resources to make a makeshift cluster. I understand the concepts though)
 
 ### Learning ATM
-- Rust
+- Learning to get better at C#
 
 ### What I Plan On Learning
 - React/Vue (or other web frameworks)
-- Golang
