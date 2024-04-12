@@ -6,7 +6,7 @@
 </a><br /><br />Hi, I'm smallketchup82. I'm a hobbyist full stack programmer and I like making funny projects
 
 ### Stuff I'm Good At
-- TypeScript, JavaScript, Node.js (Mastered; Usually what I program in)
+- TypeScript, JavaScript, Node.js (Mastered; usually what I program in)
 - HTML & CSS
 - Python
 - Ubuntu
@@ -15,12 +15,12 @@
 
 ### Stuff I'm Okay At
 - SQL (I'm decent but could be better)
-- C# (Can program in C#, but don't use it often)
+- C# (Can program very well in C#, but don't use it often)
 - Java (Can program in Java, but dont use it often)
 - Kubernetes (Requires a lot of commitment to learn, plus I lack the resources to make a makeshift cluster. I understand the concepts though)
 
 ### Learning ATM
 - Learning to get better at C#
 
-### What I Plan On Learning
+### What I Want To Learn
 - React/Vue (or other web frameworks)
