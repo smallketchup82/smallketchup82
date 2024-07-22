@@ -1,9 +1,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=smallketchup82&theme=midnight-purple" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smallketchup82&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
-</a><br /><br />Hi, I'm smallketchup82. I'm a hobbyist full stack programmer and I like making funny projects
+<br /><br />
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4C3C5W)
+<br />Hi, I'm smallketchup82. I'm a hobbyist full stack programmer and I like making funny projects<br /><br />
+
+> [!IMPORTANT]
+> The following is really outdated. I should find some time to make this page pretty
 
 ### Stuff I'm Good At
 - TypeScript, JavaScript, Node.js (Mastered; usually what I program in)
@@ -21,6 +25,3 @@
 
 ### Learning ATM
 - Learning to get better at C#
-
-### What I Want To Learn
-- React/Vue (or other web frameworks)
