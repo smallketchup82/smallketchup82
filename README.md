@@ -3,7 +3,7 @@
 </a>
 <br /><br />Hi, I'm smallketchup82. I'm a hobbyist full stack programmer and I like making funny projects<br /><br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > The following is really outdated. I should find some time to make this page pretty
 
 ### Stuff I'm Good At
