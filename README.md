@@ -6,8 +6,8 @@
 ### Stuff I'm Good At
 Main language is C# & .NET  
 
-[![Stuff im good at](https://skillicons.dev/icons?i=cs,dotnet,rider,python,regex,ubuntu,nginx,docker,cloudflare,html,css,md,git,neovim,sentry)](https://skillicons.dev)
+[![Stuff im good at](https://skillicons.dev/icons?i=cs,dotnet,rider,python,regex,ubuntu,nginx,docker,cloudflare,html,css,md,git,neovim,sentry,bash,sqlite)](https://skillicons.dev)
 
 ### Stuff I'm Okay At
 
-[![Stuff im okay at](https://skillicons.dev/icons?i=ts,nodejs,mysql,java,kubernetes)](https://skillicons.dev)
+[![Stuff im okay at](https://skillicons.dev/icons?i=ts,nodejs,mysql,java,kubernetes,latex)](https://skillicons.dev)
