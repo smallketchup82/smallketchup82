@@ -1,24 +1,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=smallketchup82&theme=midnight-purple" />
 </a>
-<br /><br />Hi, I'm smallketchup82. I'm a hobbyist full stack programmer and I like making funny projects<br /><br />
-
-> [!NOTE]
-> The following is really outdated. I should find some time to make this page pretty
+<br /><br />Hi, I'm smallketchup82. You can call me "ketchup" or "small". I'm a 16 y/o hobbyist full-stack programmer.
 
 ### Stuff I'm Good At
-- TypeScript, JavaScript, Node.js (Mastered; usually what I program in)
-- HTML & CSS
-- Python
-- Ubuntu
-- NGINX
-- Docker 
+Main language is C# & .NET  
+
+[![Stuff im good at](https://skillicons.dev/icons?i=cs,dotnet,rider,python,regex,ubuntu,nginx,docker,cloudflare,html,css,md,git,neovim,sentry)](https://skillicons.dev)
 
 ### Stuff I'm Okay At
-- SQL (I'm decent but could be better)
-- C# (Can program very well in C#, but don't use it often)
-- Java (Can program in Java, but dont use it often)
-- Kubernetes (Requires a lot of commitment to learn, plus I lack the resources to make a makeshift cluster. I understand the concepts though)
 
-### Learning ATM
-- Learning to get better at C#
+[![Stuff im okay at](https://skillicons.dev/icons?i=ts,nodejs,mysql,java,kubernetes)](https://skillicons.dev)
