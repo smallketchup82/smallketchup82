@@ -4,7 +4,7 @@
 <br /><br />Hi, I'm smallketchup82. You can call me "ketchup" or "small". I'm a 16 y/o hobbyist full-stack programmer.
 
 ### Stuff I'm Good At
-Main language is C# & .NET  
+Main language is C# w/ .NET  
 
 [![Stuff im good at](https://skillicons.dev/icons?i=cs,dotnet,rider,python,regex,ubuntu,nginx,docker,cloudflare,html,css,md,git,neovim,sentry,bash,sqlite)](https://skillicons.dev)
 
